@@ -1,0 +1,22 @@
+{
+  "name": "vend-smart-contracts",
+  "version": "0.0.1",
+  "description": "Smart contract package for VEND protocol support.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vend-protocol/smart-contracts.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vend-protocol/smart-contracts/issues"
+  },
+  "homepage": "https://github.com/vend-protocol/smart-contracts#readme",
+  "devDependencies": {
+    "hardhat": "^2.12.1"
+  }
+}
